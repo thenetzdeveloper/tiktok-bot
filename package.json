@@ -1,0 +1,20 @@
+{
+  "name": "tiktok-bot",
+  "version": "1.0.0",
+  "description": "TikTok Downloader Telegram Bot",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2",
+    "node-fetch": "^3.3.2",
+    "telegraf": "^4.16.3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
